@@ -1,0 +1,11 @@
+This code was written by following the Udemy course by Devslopes : Begginner Full stack Webdevelopment: HTML, CSS, React and Node. 
+
+This website uses mainly HTML and CSS with a slight touch of Javascript. 
+
+If anyone has any feedback on how I could make this work better or look better or even how to write the code better/ simpler I would love feedback. 
+
+One thing I learnt whilst doing this: 
+    That you can target specific child elements in CSS.
+
+One thing I struggled with: 
+    Making the Nav bar mobile responsive
